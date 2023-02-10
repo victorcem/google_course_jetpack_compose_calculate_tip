@@ -1,2 +1,2 @@
 # google_course_jetpack_compose_calculate_tip
-Aprendendo JAtpack Compose
+Aprendendo Jetpack Compose
